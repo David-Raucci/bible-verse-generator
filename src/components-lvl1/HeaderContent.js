@@ -2,9 +2,13 @@ import React from 'react'
 
 const HeaderContent = () => {
     return (
-        <div className='header-container'>
-            <img src='./media/generator.svg' alt='Yellow Circle Generator'></img>
+    <div id="header-container">
+        <div id="circle-sub-container">
+            <h1 id="bible-verse-text">Bible Verse</h1>
+            <div id="circle">
+            </div>
         </div>
+    </div>
     )
 }
 

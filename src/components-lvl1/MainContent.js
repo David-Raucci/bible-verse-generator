@@ -2,16 +2,16 @@ import React from 'react'
 
 const MainContent = () => {
 
-    const waterFallText = (string) => {
+    const cascadingText = (string) => {
         
     }
 
     return (
-        <div className='main-container'>
-            <div className='verse-receiver'>
-                <p>test</p>
-            </div>
+    <div class="main-container">
+        <div class="text-display">
+
         </div>
+    </div>
     )
 }
 
