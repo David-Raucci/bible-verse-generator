@@ -1,14 +1,9 @@
 import React from 'react'
 
 const MainContent = () => {
-
-    const cascadingText = (string) => {
-        
-    }
-
     return (
-    <div class="main-container">
-        <div class="text-display">
+    <div className="main-container">
+        <div className="text-display">
             <p id='bible-verse-input'>Test</p>
         </div>
     </div>
